@@ -1,0 +1,4 @@
+#igonorar solo los log
+.log
+#ignorar
+.synctex.gz
