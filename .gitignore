@@ -2,4 +2,4 @@
 .log
 #ignorar
 .synctex.gz
-.tex
+*.tex
