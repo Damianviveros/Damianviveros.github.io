@@ -1,5 +1,11 @@
 .container{
 color:black;
-font-display: center;
-font-size: large;
+text-align: center;
+font-size: 35px;
+font-family: cursive;
+}
+figure{
+background-color: aqua;
+margin: 2cm;
+display: block;
 }
