@@ -1,11 +1,25 @@
-.container{
+#container{
 color:black;
 text-align: center;
 font-size: 35px;
 font-family: cursive;
-}
-figure{
 background-color: aqua;
-margin: 2cm;
-display: block;
+}
+#primero{
+background-color: rgb(255, 0, 0);
+height: 2cm;
+width: 2cm;
+position: relative;
+left: 15cm;
+}
+header{
+    color: blue;
+}
+#segundo{
+    background-color: blue;
+    height: 2cm;
+    width: 2.5cm;
+    position: relative;
+    left: 16cm;
+    top: 1cm;
 }

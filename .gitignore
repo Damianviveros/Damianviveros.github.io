@@ -1,5 +1,5 @@
 #igonorar solo los log
-.log
+*.log
 #ignorar
-.synctex.gz
-*.tex
+*.synctex.gz
+.tex
