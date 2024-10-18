@@ -1,25 +1,25 @@
-#container{
-color:black;
-text-align: center;
-font-size: 35px;
-font-family: cursive;
-background-color: aqua;
+*{
+    background-color: rgb(27, 27, 27);
 }
-#primero{
-background-color: rgb(255, 0, 0);
-height: 2cm;
-width: 2cm;
-position: relative;
-left: 15cm;
+@font-face {
+    font-family: tangerine;
+    src: url(/fonts/Tangerine-Regular.ttf);
 }
-header{
-    color: blue;
-}
-#segundo{
-    background-color: blue;
-    height: 2cm;
-    width: 2.5cm;
+#cabeza{
+    font-size: 2cm;
     position: relative;
-    left: 16cm;
-    top: 1cm;
+    top: 2cm;
+    text-align: center;
+    right: 3cm;
+    font-style: italic;
+    color: rgb(255, 255, 255);
+    font-family:tangerine ;
+}
+#introduccion{
+    font-size: medium;
+    text-align: justify;
+    position: relative;
+    top: 2cm;left:15cm;
+    color:whitesmoke;
+    display: block;
 }
