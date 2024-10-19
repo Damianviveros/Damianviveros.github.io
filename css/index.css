@@ -10,7 +10,6 @@
     position: relative;
     top: 2cm;
     text-align: center;
-    right: 3cm;
     font-style: italic;
     color: rgb(255, 255, 255);
     font-family:tangerine ;
@@ -19,7 +18,26 @@
     font-size: medium;
     text-align: justify;
     position: relative;
-    top: 2cm;left:15cm;
+    top: 10cm;left:8.5cm;
     color:whitesmoke;
     display: block;
+}
+.principal{
+    position: relative;
+    right: 12cm; top:8cm;
+}
+#proyectos{
+    color: white;
+    position: relative;
+    left: 35cm;
+    top:5cm;
+}
+ul{
+    list-style: none;
+}
+li{
+    padding-top: 21px;
+}
+.titulo{
+    padding-left: 10px;
 }
