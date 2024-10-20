@@ -6,9 +6,11 @@
     position: relative;
     top: 2cm;
     text-align: center;
-    font-style: italic;
     color: rgb(255, 255, 255);
-      font-family: "Pixelify Sans", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;
+	font-family: "Pixelify Sans", sans-serif;
 }
 #introduccion{
     font-size: medium;
