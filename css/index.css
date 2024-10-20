@@ -8,7 +8,6 @@
     text-align: center;
     color: rgb(255, 255, 255);
 	font-optical-sizing: auto;
-	font-weight: <weight>;
 	font-style: normal;
 	font-family: "Pixelify Sans", sans-serif;
 }
@@ -38,4 +37,45 @@ li{
 }
 .titulo{
     padding-left: 10px;
+}
+img{
+    width: 30px;
+    height: 30px;
+}
+.github{
+    width: 35px;
+    height: 35px;
+    position: relative;
+    top: 2px;
+    left: 1px;
+}
+#redes{
+    position: relative;
+    left: 1700px;
+
+}
+.github:hover {
+    transform: scale(1.2);
+}
+.gmail:hover{
+    transform: scale(1.2);
+}
+.link:hover{
+    transform: scale(1.2);
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.pro1:hover{
+    font-weight: 12;
+    font-size: 18px;
+}
+.pro2:hover{
+    font-weight: 12;
+    font-size: 18px;
+}
+.pro3:hover{
+    font-weight: 12;
+    font-size: 18px;
 }
