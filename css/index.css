@@ -38,7 +38,11 @@ li{
 .titulo{
     padding-left: 10px;
 }
-img{
+.gmail{
+    width: 30px;
+    height: 30px;
+}
+.link{
     width: 30px;
     height: 30px;
 }
