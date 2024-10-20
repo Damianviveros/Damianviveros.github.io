@@ -1,10 +1,6 @@
 *{
     background-color: rgb(27, 27, 27);
 }
-@font-face {
-    font-family: tangerine;
-    src: url(/fonts/Tangerine-Regular.ttf);
-}
 #cabeza{
     font-size: 2cm;
     position: relative;
