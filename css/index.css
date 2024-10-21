@@ -2,7 +2,7 @@
     background-color: rgb(27, 27, 27);
 }
 #cabeza{
-   display: flex;
+    display: flex;
 	font-size: 2cm;
     position: relative;
     top: 2cm;
